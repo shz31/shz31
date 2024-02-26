@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shz31
+- 👋 Hi, I’m Stéphane Huriez
 - 👀 I’m interested in remote sensing, visual intelligence, image processing, GIS
 - 🌱 I’m currently learning to encode with python
 - 💞️ I’m looking to collaborate on ...
